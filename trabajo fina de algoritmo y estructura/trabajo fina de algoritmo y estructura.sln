@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trabajo fina de algoritmo y estructura", "trabajo fina de algoritmo y estructura\trabajo fina de algoritmo y estructura.csproj", "{BEE69366-A98D-489E-8935-36AF4000F591}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE69366-A98D-489E-8935-36AF4000F591}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE69366-A98D-489E-8935-36AF4000F591}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE69366-A98D-489E-8935-36AF4000F591}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE69366-A98D-489E-8935-36AF4000F591}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3FD1DDF4-8F31-4BE4-B499-150C4ADDA71B}
+	EndGlobalSection
+EndGlobal
